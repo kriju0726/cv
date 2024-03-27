@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(149, 221, 219);
+}
+
+h2{
+    color: #5F0F40;
+    font-size: large;
+    float: left 10%;
+    margin-inline-start: 20px;
+    margin-top: 0px;
+  }
+
+a:hover{
+    color: #EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(255, 47, 238);
+    border-width: 8px;
+    width:10%;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.photo{
+    height: 160px;
+    width: 160px;
+}
+p{
+    padding-left: 125px;
+    padding-right: 125px;
+}
